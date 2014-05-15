@@ -1,4 +1,4 @@
-package com.mobilabsolutions.pivotaltracker.util
+package com.mobilabsolutions.pivotaltracker
 
 @Grab(group='org.codehaus.groovy.modules.http-builder', module='http-builder', version='0.7')
 

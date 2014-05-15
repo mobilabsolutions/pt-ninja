@@ -1,6 +1,6 @@
-package com.mobilabsolutions.pivotaltracker.util.example
+package com.mobilabsolutions.pivotaltracker.example
 
-import com.mobilabsolutions.pivotaltracker.util.PivotalTracker
+import com.mobilabsolutions.pivotaltracker.PivotalTracker
 
 /**
  * This class demonstrates example use cases of the Pivotal Tracker util class
